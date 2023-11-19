@@ -35,7 +35,7 @@ This project is a simple music player application developed using Flask, allowin
 1. **Clone Repository:**
 
 ```bash
-   git clone <repository_url>
+   git clone https://github.com/24yash/Song-Box.git
 ```
 
 2. **Install Dependencies:**
