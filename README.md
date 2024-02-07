@@ -16,8 +16,6 @@ This project is a simple music player application developed using Flask, allowin
 - All uploaded songs will be listed with their names.
 - Click on the play button to listen to any uploaded song.
 
-**Note:** During submission, the `audios` folder (>10 MB) might be excluded. Add it back during presentations or viva.
-
 ## Project Structure
 
 - `app.py`: Contains the Flask application setup and routes.
