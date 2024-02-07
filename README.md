@@ -19,7 +19,7 @@ This project is a simple music player application developed using Flask, allowin
 ## Project Structure
 
 - `app.py`: Contains the Flask application setup and routes.
-- `static/audios`: Folder to store uploaded audio files. (Note: Files larger than 10 MB might not be included for submission purposes.)
+- `static/audios`: Folder to store uploaded audio files.
 - `templates/`: Contains HTML templates for rendering the web pages.
 
 ## Requirements
